@@ -1,0 +1,8 @@
+1326688126
+Post	/home/juan/projects/sumit2012/app/models/post.rb	class Post 
+PostsController	/home/juan/projects/sumit2012/app/controllers/posts_controller.rb	class PostsController 
+PostsControllerTest	/home/juan/projects/sumit2012/test/functional/posts_controller_test.rb	class PostsControllerTest 
+PostsHelper	/home/juan/projects/sumit2012/app/helpers/posts_helper.rb	module PostsHelper
+PostsHelperTest	/home/juan/projects/sumit2012/test/unit/helpers/posts_helper_test.rb	class PostsHelperTest 
+index	/home/juan/projects/sumit2012/app/controllers/posts_controller.rb	  def index
+nada	/home/juan/projects/sumit2012/app/controllers/posts_controller.rb	  def nada

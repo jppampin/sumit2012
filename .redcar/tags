@@ -1,4 +1,4 @@
-1326688126
+1326857031
 Post	/home/juan/projects/sumit2012/app/models/post.rb	class Post 
 PostsController	/home/juan/projects/sumit2012/app/controllers/posts_controller.rb	class PostsController 
 PostsControllerTest	/home/juan/projects/sumit2012/test/functional/posts_controller_test.rb	class PostsControllerTest 
